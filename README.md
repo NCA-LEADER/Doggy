@@ -1,2 +1,0 @@
-# Doggy
-A scared dog
